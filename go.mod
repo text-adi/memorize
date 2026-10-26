@@ -3,7 +3,7 @@ module templates
 go 1.25.4
 
 require (
-	github.com/gofiber/fiber/v2 v2.52.15
+	github.com/gofiber/fiber/v2 v2.52.16
 	github.com/spf13/cobra v1.10.2
 	go.uber.org/fx v1.24.0
 )
